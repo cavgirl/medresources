@@ -1,0 +1,172 @@
+div.SCContent {
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
+
+
+div#obj2020 {
+position: absolute;
+overflow: hidden;
+top: 7px;
+left: -5px;
+width: 1378px;
+height: 895px;
+opacity: 1;
+z-index: 0;
+display:block;
+pointer-events: none;
+
+}
+img#obj2020_img {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1378px;
+	height: 895px;
+}
+
+
+button#obj2003 {
+	position: absolute;
+overflow: hidden;
+top: 510px;
+left: 1016px;
+width: 279px;
+height: 216px;
+opacity: 1;
+z-index: 1;
+display:block;
+pointer-events: auto;
+
+box-shadow: 2px 2px 2px 0px rgba(0,0,0,0.6078431);
+-webkit-box-shadow: 2px 2px 2px 0px rgba(0,0,0,0.6078431);
+-moz-box-shadow: 2px 2px 2px 0px rgba(0,0,0,0.6078431);
+	border-color: #BFBFBF;
+	border-width: 1px;
+	border-style: solid;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	background-color: #FFB700;
+	font-family:"Gochi-Hand-regular";
+	font-size: 50px;
+	color: #000000; 
+}
+button#obj2003:active { -webkit-box-shadow: inset 2px 2px 7px rgba(0, 0, 0, 0.125); }
+button#obj2005 {
+	position: absolute;
+overflow: hidden;
+top: 526px;
+left: 389px;
+width: 283px;
+height: 213px;
+opacity: 1;
+z-index: 2;
+display:block;
+pointer-events: auto;
+
+box-shadow: 2px 2px 2px 0px rgba(0,0,0,0.6078431);
+-webkit-box-shadow: 2px 2px 2px 0px rgba(0,0,0,0.6078431);
+-moz-box-shadow: 2px 2px 2px 0px rgba(0,0,0,0.6078431);
+	border-color: #BFBFBF;
+	border-width: 1px;
+	border-style: solid;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	background-color: #CDD2B9;
+	font-family:"Gochi-Hand-regular";
+	font-size: 50px;
+	color: #000000; 
+}
+button#obj2005:active { -webkit-box-shadow: inset 2px 2px 7px rgba(0, 0, 0, 0.125); }
+button#obj2007 {
+	position: absolute;
+overflow: hidden;
+top: 526px;
+left: 77px;
+width: 285px;
+height: 211px;
+opacity: 1;
+z-index: 3;
+display:block;
+pointer-events: auto;
+
+box-shadow: 2px 2px 2px 0px rgba(0,0,0,0.6078431);
+-webkit-box-shadow: 2px 2px 2px 0px rgba(0,0,0,0.6078431);
+-moz-box-shadow: 2px 2px 2px 0px rgba(0,0,0,0.6078431);
+	border-color: #BFBFBF;
+	border-width: 1px;
+	border-style: solid;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	background-color: #DCC1B7;
+	font-family:"Gochi-Hand-regular";
+	font-size: 50px;
+	color: #000000; 
+}
+button#obj2007:active { -webkit-box-shadow: inset 2px 2px 7px rgba(0, 0, 0, 0.125); }
+button#obj2009 {
+	position: absolute;
+overflow: hidden;
+top: 529px;
+left: 696px;
+width: 281px;
+height: 211px;
+opacity: 1;
+z-index: 4;
+display:block;
+pointer-events: auto;
+
+box-shadow: 2px 2px 2px 0px rgba(0,0,0,0.6078431);
+-webkit-box-shadow: 2px 2px 2px 0px rgba(0,0,0,0.6078431);
+-moz-box-shadow: 2px 2px 2px 0px rgba(0,0,0,0.6078431);
+	border-color: #BFBFBF;
+	border-width: 1px;
+	border-style: solid;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	background-color: #66CCFF;
+	font-family:"Gochi-Hand-regular";
+	font-size: 50px;
+	color: #000000; 
+}
+button#obj2009:active { -webkit-box-shadow: inset 2px 2px 7px rgba(0, 0, 0, 0.125); }
+
+
+
+
+
+
+
+
+
+
+
+body {
+font-family: Lato, Arial, Helvetica, Sans-Serif;
+font-size: 20px;
+line-height: 1.2;
+color: #000000
+}
+:link { color: #0A52A2; }
+:visited { color: #5B2599; }
+.SCText span.INSERT_STYLE_NAME_HERE {
+	
+}/* Start of default CSS Styles */
+p, h1, h2, h3, h4, h5, h6 {
+    margin: 0px;
+    padding: 0px;
+}
+h1 { font-size: 2em; }
+h2 { font-size: 1.5em; }
+h3 { font-size: 1.17em; }
+h4 { font-size: 1.12em; }
+h5 { font-size: .83em; }
+h6 { font-size: .67em; }
+/* End of default CSS Styles */
+.SCPage {
+background-color: #FFFFFF
+}
